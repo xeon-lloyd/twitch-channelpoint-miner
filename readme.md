@@ -99,7 +99,7 @@ pm2를 이용해서 백그라운드에서 스크립트를 실행할 수 있습�
 
 pm2가 없다면 pm2를 설치합니다
 ```
-npm install pm2
+npm install -g pm2
 ```
 
 이후 해당 폴더에서 pm2 실행합니다
