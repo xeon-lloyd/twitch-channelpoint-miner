@@ -1,0 +1,15 @@
+{
+  "name": "twitch-point-miner",
+  "version": "1.0.0",
+  "description": "트위치 채널 포인트 채굴기",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xeon_yuisa_lloyd",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.2",
+    "request-promise": "^4.2.6"
+  }
+}
