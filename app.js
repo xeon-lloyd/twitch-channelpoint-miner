@@ -2,6 +2,7 @@ const twitch = {
     clientId: "kimne78kx3ncx6brgo4mv6wki5h1ko" //트위치 웹 클라이언트 id (수정 안해도 됨)
 }
 
+/* 유저 설정 */
 const user = {
     channel: "twichId", //필수 (=트위치 아이디)
     auth: "OAuth xxxxxxx", //필수 (=OAuth 쿠키)
